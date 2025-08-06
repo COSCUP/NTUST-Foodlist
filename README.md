@@ -15,7 +15,7 @@
 
 ### 包子類
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Off Campus |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 原味肉包 | Original Meat Bun | 32 | 35 |
 | 辣味肉包 | Spicy Meat Bun | 32 | 35 |
@@ -27,14 +27,14 @@
 
 ### 饅頭類
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 乳酪饅頭 | Cheese Buns | 29 | 32 |
 | 黑糖饅頭 | Brown Sugar Mantou | 23 | 25 |
 
 ### 飲料類
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 豆漿 | Soybean Milk | 27 | 30 |
 | 豆漿紅茶 | Soy Milk Tea | 27 | 30 |
@@ -43,10 +43,6 @@
 | 黑豆漿 | Black Soy Milk | 27 | 30 |
 | 鮮奶紅茶 | Fresh Milk Black Tea | 36 | 40 |
 | 紅茶 | Black Tea | 23 | 25 |
-
-**備註：** 
-- 校內優惠價 (On Campus)
-- 校外販售價 (Off Campus)
 
 </details>
 
@@ -66,7 +62,7 @@
 
 ### 麵類 (Noodles)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 傻瓜大乾麵 | Large Dry Noodles | 50 | 60 |
 | 肉燥大乾麵 | Large Dry Noodles with Meat | 55 | 65 |
@@ -83,7 +79,7 @@
 
 ### 麵/飯類 (Noodles/Rice)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 香菇雞麵/飯 | Chicken and Mushrooms Noodles/Rice | 85 | 95 |
 | 麻油雞麵/飯 | Sesame Oil Chicken Noodles/Rice | 85 | 95 |
@@ -96,7 +92,7 @@
 
 ### 湯品 (Soup)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 青菜豆腐湯 | Vegetables and Tofu Soup | 35 | 45 |
 | 魚丸湯 | Fishball Soup | 30 | 40 |
@@ -109,7 +105,7 @@
 
 ### 水餃類 (Dumplings)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 韭菜水餃 | Chive Dumplings | 75 | 85 |
 | 高麗菜水餃 | Cabbage and Pork Dumplings | 75 | 85 |
@@ -118,7 +114,7 @@
 
 ### 鍋類 (Hot Pot)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 酸菜豬肉鍋 | Pickled Vegetables with Pork | 85 | 95 |
 | 菇菇豬肉鍋 | Mushrooms and Pork Stew | 85 | 95 |
@@ -129,16 +125,12 @@
 
 ### 其他 (Others)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 燙青菜 | Blanched Vegetables | 30 | 40 |
 | 紅油抄手 | Spicy Wonton | 50 | 60 |
 | 十錦雞肉冬粉煲 | Ten Ingredients Chicken Vermicelli Soup | 95 | 105 |
 | 蘿蔔燒肉冬粉煲 | Roasted Pork Pineapple Vermicelli Soup | 95 | 105 |
-
-**備註：**
-- 校內優惠價 (On Campus)
-- 校外販售價 (Off Campus)
 
 </details>
 
@@ -158,7 +150,7 @@
 
 ### 拌飯類 (Bibimbap)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member  |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 韓式蔬菜拌飯 | Korean Vegetable Bibimbap | 60 | 70 |
 | 韓式豬肉拌飯 | Korean Pork Bibimbap | 80 | 90 |
@@ -169,7 +161,7 @@
 
 ### 烤肉類 (Roast Food / Barbeque)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 韓式烤豬肉飯 | Korean BBQ Pork Rice | 80 | 90 |
 | 韓式烤牛肉飯 | Korean BBQ Beef Rice | 85 | 95 |
@@ -184,7 +176,7 @@
 
 ### 小火鍋類 (Small Hot Pot)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 蔬菜豆腐鍋 | Vegetable Tofu Hot Pot | 80 | 90 |
 | 蔬菜泡菜鍋 | Vegetable Kimchi Hot Pot | 80 | 90 |
@@ -196,10 +188,6 @@
 | 蔬菜部隊鍋 | Vegetable Cheese Hot Pot | 90 | 100 |
 | 豬肉部隊鍋 | Pork Cheese Hot Pot | 110 | 120 |
 | 牛肉部隊鍋 | Beef Cheese Hot Pot | 120 | 130 |
-
-**備註：**
-- 校內優惠價 (On Campus)
-- 校外販售價 (Off Campus)
 
 </details>
 
@@ -220,7 +208,7 @@
 
 ### 麵類
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 菜菜肉燥乾拌麵 | Dried Vegetables and Meat Noodles | 80 | 90 |
 | 雙醬麵 | Double Sauce Noodles | 80 | 90 |
@@ -256,7 +244,7 @@
 
 ### 小菜配菜
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 溏心蛋 | Soft-boiled Egg | 25 | 35 |
 | 舒肥雞 | Sous Vide Chicken Breast | 30 | 40 |
@@ -265,7 +253,7 @@
 
 ### 加購項目
 
-| 中文名稱 | 英文名稱 | 價格 |
+| 中文名稱 | 英文名稱 | 價格($) |
 |---------|----------|----------|
 | 水煮蛋 | Boiled Egg | 10 |
 | 溏心蛋 | Soft-boiled Egg | 25 |
@@ -286,10 +274,6 @@
 - Step 3：配料
   - 現場選五種配料
 
-**備註：**
-- 校內優惠價 (On Campus)
-- 校外販售價 (Off Campus)
-
 </details>
 
 
@@ -309,7 +293,7 @@
 
 ### 湯麵類 (Noodle Soup)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 蝦肉餛飩麵 | Shrimp Wonton Noodles | 70 | 80 |
 | 菜肉餛飩麵 | Vegetables and Meat Wonton Noodles | 65 | 75 |
@@ -328,7 +312,7 @@
 
 ### 乾麵類 (Dried Noodles)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 蝦肉炒手麵 | Stir-Fried Noodles with Shrimp | 90 | 100 |
 | 菜肉炒手麵 | Stir-Fried Noodles with Vegetables and Meat | 85 | 95 |
@@ -348,7 +332,7 @@
 
 ### 炒麵類 (Fried Noodles)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 沙茶牛肉炒麵 | Shacha Sauce Beef Fried Noodles | 85 | 95 |
 | 沙茶羊肉炒麵 | Shacha Sauce Lamb Fried Noodles | 85 | 95 |
@@ -358,7 +342,7 @@
 
 ### 炒飯類 (Fried Rice)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 蝦仁蛋炒飯 | Shrimp and Egg Fried Rice | 85 | 95 |
 | 香腸蛋炒飯 | Sausages and Egg Fried Rice | 75 | 85 |
@@ -369,7 +353,7 @@
 
 ### 套餐類 (Combo Meal)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | A餐 老虎麵+綜合餛飩湯 | Meal A Tiger Noodles + Mixed Wonton Soup | 100 | 110 |
 | B餐 炸醬麵+綜合餛飩湯 | Meal B Soybean Paste Noodles + Mixed Wonton Soup | 100 | 110 |
@@ -378,7 +362,7 @@
 
 ### 炒手 (Dumplings)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 蝦肉炒手 | Shrimp Dumplings | 70 | 80 |
 | 菜肉炒手 | Vegetables and Meat Dumplings | 65 | 75 |
@@ -386,7 +370,7 @@
 
 ### 湯品 (Soup)
 
-| 中文名稱 | 英文名稱 | 校內價格 NTUST member | 校外價格 Non-NTUST member |
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
 |---------|----------|----------|----------|
 | 蝦肉餛飩湯 | Shrimp Wonton Soup | 65 | 75 |
 | 菜肉餛飩湯 | Vegetables and Meat Wonton Soup | 60 | 70 |
@@ -396,10 +380,6 @@
 | 豬肝湯 | Pork Liver Soup | 55 | 65 |
 | 虱目魚雞湯 | Milkfish Soup | 65 | 75 |
 | 蕃茄蛋花湯 | Tomato and Egg Soup | 60 | 70 |
-
-**備註：**
-- 校內優惠價 (On Campus)
-- 校外販售價 (Off Campus)
 
 </details>
 
