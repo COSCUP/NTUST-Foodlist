@@ -5,7 +5,7 @@
 
 **訂餐電話：** 02-2327-5200
 
-**營業時間：** 週六、週日 08:00 - 20:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 08:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -52,7 +52,7 @@
 
 **訂餐電話：** 02-2362-6465
 
-**營業時間：** 週六、週日 10:30 - 20:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 10:30 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -140,7 +140,7 @@
 
 **訂餐電話：** 0968-826-363
 
-**營業時間：** 週日 11:00 - 20:00
+**營業時間 Opening Hours：** 週日 Sun. 11:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -196,9 +196,9 @@
 
 ## 涼麵自由吧
 
-**電話：** 無 - 僅現場預訂
+**訂餐電話：** 無 - 僅現場預訂
 
-**營業時間：** 週六、週日 11:00 - 19:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 11:00 - 19:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -281,9 +281,9 @@
 
 ## 溫州大餛飩
 
-**電話：** 0917-255-880
+**訂餐電話：** 0917-255-880
 
-**營業時間：** 週六、週日 11:00 - 20:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 11:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -392,7 +392,7 @@
 
 **線上訂餐：** https://chingshin.doteat.tw/menu?storeId=Yl0M7J4m-0000BLNBDU
 
-**營業時間：** 週六、週日 10:30 - 19:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 10:30 - 19:00
 
 **線上菜單：** https://chingshin.doteat.tw/menu?storeId=Yl0M7J4m-0000BLNBDU
 
@@ -407,6 +407,117 @@
 - 登入會員
 - 選擇：台北市 > 大安區 > 台科大店
 
-**營業時間：** 週六、週日 08:00 - 19:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 08:00 - 19:00
 
 **線上菜單：** https://www.mos.com.tw/menu/set.aspx
+
+
+---
+
+## 豪享來麵食 (@[第二教學大樓餐廳](https://maps.app.goo.gl/n9Y5SniVnXQi94Kx9))
+
+**訂餐電話：** 02-2737-2320
+
+**營業時間 Opening Hours：** 週六、週日 11:00 - 20:00
+
+<details>
+<summary>菜單 Menu</summary>
+
+**菜單僅供參考，實際品項、金額以店家公告為準**  
+**Menu is for reference only. Actual items and prices are subject to store announcements.**
+
+### 乾麵類 (Dry Noodles)
+
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
+|---------|----------|----------|----------|
+| 乾拌麵 | Dry Noodle | 45 | 55 |
+| 紅油乾麵 | Red Oil Dry Noodles | 45 | 55 |
+| 紅油炒手 | Spicy Wonton | 50 | 60 |
+| 紅油炒手麵 | Spicy Wonton Noodle | 60 | 70 |
+| 炒泡麵(牛/豬) | Fried Noodles(Beef/Pork) | 80 | 90 |
+| 沙茶(牛/豬)乾拌麵 | Dried Beef/Pork Noodles | 70 | 80 |
+
+### 湯麵類 (Noodle Soup)
+
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
+|---------|----------|----------|----------|
+| 鍋燒麵(牛/豬/雞) | Hot Pot Noodle (beef/pork/chicken) | 80 | 90 |
+| 蕃茄蔬菜麵 | Tomato Vegetable Noodle | 50 | 60 |
+| 貢丸麵 | Meat Ball Noodle | 45 | 55 |
+| 餛飩麵 | Wonton Noodles | 50 | 60 |
+| 榨菜肉絲麵 | Pickled Vegetable Pork Noodles | 50 | 60 |
+| 牛肉湯麵 | Beef Noodle Soup | 55 | 65 |
+| 排骨麵 | Rib Noodles | 75 | 85 |
+| 雲吞蔬菜麵 | Wonton Vegetable Noodles | 70 | 80 |
+| 雲吞牛肉湯麵 | Wonton Beef Noodle Soup | 75 | 85 |
+| 香嫩豬肉片麵 | Tender Pork Noodles | 75 | 85 |
+| 牛肉片麵 | Sliced Beef Noodle | 90 | 100 |
+| 牛肉細粉 | Beef Vermicelli | 90 | 100 |
+| 茄汁牛肉片麵 | Beef Noodles with Tomato Sauce | 90 | 100 |
+
+### 黑胡椒義大利麵類 (Black Pepper Pasta)
+
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
+|---------|----------|----------|----------|
+| 法式黑胡椒麵 | French Black Pepper Noodles | 60 | 70 |
+| 法式黑胡椒G排麵 | French Black Pepper Chicken Chops Noodle | 75 | 85 |
+| 法式黑胡椒卡拉G腿麵 | French Black Pepper Kara Chicken Noodle | 80 | 90 |
+| 法式黑胡椒G腿麵 | French Black Pepper Chicken Drumsticks Noodle | 85 | 95 |
+| 法式黑胡椒牛排麵 | French Black Pepper Steak Noodle | 90 | 100 |
+| 法式黑胡椒豬排麵 | French Black Pepper Pork Chops Noodle | 75 | 85 |
+| 法式黑胡椒燻雞培根麵 | French Black Pepper Smoked Chicken Bacon Noodle | 80 | 90 |
+
+### 肉醬義大利麵類 (Meat Sauce Pasta)
+
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
+|---------|----------|----------|----------|
+| 法式肉醬麵 | Bolognese | 60 | 70 |
+| 法式肉醬G排麵 | French Bolognese Chicken Chop Noodles | 75 | 85 |
+| 法式肉醬卡拉G腿麵 | Kara Chicken Drumsticks Noodle with French Bolognese | 80 | 90 |
+| 法式肉醬G腿麵 | French Bolognese Chicken Thigh Noodles | 85 | 95 |
+| 法式肉醬牛排麵 | Bolognese Steak Spaghetti | 90 | 100 |
+| 法式肉醬豬排麵 | Pork Chop Noodles with Bolognese Sauce | 75 | 85 |
+| 法式肉醬燻雞培根麵 | Smoked Chicken and Bacon Spaghetti | 80 | 90 |
+
+### 湯類 (Soup)
+
+| 中文名稱 | 英文名稱 | 校內價格 NTUST member($) | 校外價格 Non-NTUST member($) |
+|---------|----------|----------|----------|
+| 貢丸湯 | Meat Ball Soup | 25 | 35 |
+| 蘿蔔湯 | Radish Soup | 25 | 35 |
+| 蕃茄蔬菜湯 | Tomato and Vegetable Soup | 25 | 35 |
+| 餛飩湯 | Wonton Soup | 40 | 50 |
+
+### 燴飯類 (Risotto)
+
+| 中文名稱 | 英文名稱 | 價格 ($) |
+|---------|----------|------|
+| 沙茶牛肉燴飯 | Shacha Beef Risotto | 70 |
+| 沙茶豬肉燴飯 | Shacha Pork Risotto | 70 |
+
+### 黑胡椒&肉醬類 (Black Pepper & Meat Sauce Rice)
+
+| 中文名稱 | 英文名稱 | 價格 ($) |
+|---------|----------|------|
+| 法式黑胡椒/肉醬飯 | French Black Pepper/Bolognese Rice | 60 |
+| 法式黑胡椒/肉醬G排飯 | French Black Pepper/Meat Sauce Chicken Chop Rice | 75 |
+| 法式黑胡椒/肉醬卡拉G腿飯 | French Black Pepper/Meat Sauce Kara Chicken Leg Rice | 80 |
+| 法式黑胡椒/肉醬G腿飯 | French Black Pepper/Meat Sauce Chicken Leg Rice | 85 |
+| 法式黑胡椒/肉醬牛排飯 | French Black Pepper/Meat Sauce Steak Rice | 90 |
+| 法式黑胡椒/肉醬豬排飯 | French Black Pepper/Meat Sauce with Pork Chop Rice | 75 |
+| 法式黑胡椒/肉醬燻雞培根飯 | French Black Pepper/Meat Sauce Smoked Chicken and Bacon Rice | 80 |
+
+### 加購項目
+
+| 項目 | 價格 |
+|------|------|
+| 加麵加一球 | +10元 |
+| 加麵加半球 | +5元 |
+| 僅限飯類加菜 | +5元 |
+
+**備註：**
+- 校內優惠價 (On Campus)
+- 校外販售價 (Off Campus)
+- 燴飯類僅提供單一價格
+
+</details>
