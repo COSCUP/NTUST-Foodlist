@@ -5,7 +5,7 @@
 
 **訂餐電話：** 02-2327-5200
 
-**營業時間：** 週六、週日 08:00 - 20:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 08:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -52,7 +52,7 @@
 
 **訂餐電話：** 02-2362-6465
 
-**營業時間：** 週六、週日 10:30 - 20:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 10:30 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -140,7 +140,7 @@
 
 **訂餐電話：** 0968-826-363
 
-**營業時間：** 週日 11:00 - 20:00
+**營業時間 Opening Hours：** 週日 Sun. 11:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -196,9 +196,9 @@
 
 ## 涼麵自由吧
 
-**電話：** 無 - 僅現場預訂
+**訂餐電話：** 無 - 僅現場預訂
 
-**營業時間：** 週六、週日 11:00 - 19:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 11:00 - 19:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -281,9 +281,9 @@
 
 ## 溫州大餛飩
 
-**電話：** 0917-255-880
+**訂餐電話：** 0917-255-880
 
-**營業時間：** 週六、週日 11:00 - 20:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 11:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
@@ -392,7 +392,7 @@
 
 **線上訂餐：** https://chingshin.doteat.tw/menu?storeId=Yl0M7J4m-0000BLNBDU
 
-**營業時間：** 週六、週日 10:30 - 19:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 10:30 - 19:00
 
 **線上菜單：** https://chingshin.doteat.tw/menu?storeId=Yl0M7J4m-0000BLNBDU
 
@@ -407,7 +407,7 @@
 - 登入會員
 - 選擇：台北市 > 大安區 > 台科大店
 
-**營業時間：** 週六、週日 08:00 - 19:00
+**營業時間 Opening Hours：** 週六 Sat. 、週日 Sun. 08:00 - 19:00
 
 **線上菜單：** https://www.mos.com.tw/menu/set.aspx
 
@@ -416,9 +416,9 @@
 
 ## 豪享來麵食 (@[第二教學大樓餐廳](https://maps.app.goo.gl/n9Y5SniVnXQi94Kx9))
 
-**電話：** 02-2737-2320
+**訂餐電話：** 02-2737-2320
 
-**營業時間：** 週六、週日 11:00 - 20:00
+**營業時間 Opening Hours：** 週六、週日 11:00 - 20:00
 
 <details>
 <summary>菜單 Menu</summary>
